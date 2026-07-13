@@ -397,7 +397,7 @@ Before you begin, ensure you have the following installed:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/eqraa-center-hub.git
+git clone https://github.com/Mahmoud9-dev/eqraa-center-hub.git
 cd eqraa-center-hub
 ```
 
